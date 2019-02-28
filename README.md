@@ -28,8 +28,8 @@ optional arguments:
 The only currently supported AWS service is EC2.
 
 #### Warning
-This code is not ready for production. For now, please consider it primary use as an example of how to perform
-certain actions using boto3.
+This code is not ready for production. For now, please consider its primary use as an example of how to perform
+VPC tear down actions using boto3.
 
 #### Acknowledgments
 This script would not have been possible without @neilswinton, @vernhart, @alberto-morales, and @Fabian1976. I took their advice
